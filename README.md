@@ -1,80 +1,82 @@
 # 📊 YouTube Trending Videos Analysis
 
-## 🚀 Overview
+## Overview
 
-This project analyzes **120,000+ YouTube trending videos** across the **US, UK, and India** to uncover patterns behind viral content.
+An end-to-end data analytics project examining **120,000+ YouTube trending videos** across the **US, UK, and India** to uncover what drives viral content.
 
-The goal is to answer:
-
-* What types of videos trend the most?
-* How fast do videos gain popularity?
-* What factors drive engagement (views, likes, comments)?
-
----
-
-## 📈 Key Insights
-
-* 🎬 **Entertainment & Music dominate** — ~45% of all trending videos
-* 🇺🇸 **US videos lead in views** — avg **2.1M vs 800K (India)**
-* 📰 **News trends fastest** — ~1.2 days on average
-* 👍 **High like ratio (>5%) → 3x more comments**
+**Core questions explored:**
+- What categories dominate trending?
+- How quickly do videos rise to prominence?
+- Which engagement signals (views, likes, comments) matter most?
 
 ---
 
-## 🛠️ Tech Stack
+## Key Insights
 
-* **Python** — data cleaning & exploratory analysis
-  *(Pandas, Matplotlib, Seaborn)*
-* **PostgreSQL** — data modeling & analytical queries
-* **Power BI** — interactive dashboard & business insights
-
----
-
-## 🧠 What I Did
-
-* Cleaned and transformed raw datasets using Python
-* Designed a relational database schema in PostgreSQL
-* Wrote analytical SQL queries to extract insights
-* Built a Power BI dashboard to visualize trends
-* Derived actionable insights from real-world data
+| Finding | Detail |
+|---|---|
+| 🎬 Entertainment & Music dominate | ~45% of all trending videos |
+| 🇺🇸 US leads in average views | 2.1M vs. 800K (India) |
+| 📰 News trends the fastest | ~1.2 days on average |
+| 👍 High like ratio (>5%) drives comments | 3× more comments vs. low-ratio videos |
 
 ---
 
-## 📊 Dashboard
+## Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| **Python** *(Pandas, Matplotlib, Seaborn)* | Data cleaning & exploratory analysis |
+| **PostgreSQL** | Relational schema design & analytical queries |
+| **Power BI** | Interactive dashboard & business storytelling |
+
+---
+
+## What I Did
+
+1. Cleaned and transformed raw datasets using Python
+2. Designed a normalized relational schema in PostgreSQL
+3. Wrote analytical SQL queries to surface trends and patterns
+4. Built an interactive Power BI dashboard for visual storytelling
+5. Translated findings into actionable, data-backed insights
+
+---
+
+## Dashboard
 
 ![Dashboard](data/cleaned/dashboard_screenshot.png)
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-data/         → raw & cleaned datasets  
-notebooks/    → data cleaning & EDA (Jupyter)  
-sql/          → schema + analytical queries  
-dashboard/    → Power BI (.pbix) file  
+data/         → raw & cleaned datasets
+notebooks/    → data cleaning & EDA (Jupyter)
+sql/          → schema + analytical queries
+dashboard/    → Power BI (.pbix) file
 ```
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis (EDA)
-* SQL & Data Modeling
-* Data Visualization & Storytelling
-* End-to-End Data Analytics Workflow
-
----
-
-## 📌 Future Improvements
-
-* Add machine learning model to predict trending probability
-* Automate ETL pipeline
-* Deploy dashboard online
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL & Relational Data Modeling
+- Data Visualization & Storytelling
+- End-to-End Analytics Workflow
 
 ---
 
-## 🤝 Contact
+## Future Improvements
 
-If you're interested in this project or collaboration, feel free to reach out!
+- [ ] ML model to predict trending probability
+- [ ] Automated ETL pipeline
+- [ ] Online dashboard deployment
+
+---
+
+## Contact
+
+Interested in this project or open to collaboration? Feel free to reach out!
