@@ -1,0 +1,19 @@
+category_name,avg_days_to_trend,fastest,slowest
+Movies,3.3,0,7
+News & Politics,4.0,0,37
+Shows,4.8,1,27
+Education,5.1,0,37
+Nonprofits & Activism,5.4,1,14
+Comedy,5.7,0,37
+Entertainment,5.9,0,60
+Autos & Vehicles,6.0,0,60
+Science & Technology,6.5,0,50
+Unknown,6.6,0,37
+Sports,6.6,0,49
+People & Blogs,6.7,0,44
+Howto & Style,7.1,0,42
+Travel & Events,7.2,0,60
+Film & Animation,8.3,0,60
+Gaming,9.2,0,37
+Pets & Animals,9.3,1,50
+Music,10.9,0,42

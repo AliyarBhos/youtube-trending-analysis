@@ -1,0 +1,5 @@
+comments_disabled,ratings_disabled,video_count,avg_views,avg_like_ratio
+True,True,660,4744465.0,0.0
+False,False,109218,3214423.0,3.11
+True,False,1741,1358236.0,1.23
+False,True,480,416534.0,0.0
