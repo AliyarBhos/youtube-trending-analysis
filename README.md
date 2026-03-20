@@ -44,7 +44,7 @@ An end-to-end data analytics project examining **120,000+ YouTube trending video
 
 ## Dashboard
 
-![Dashboard](C:\Users\konta\Desktop\youtube-trending-analysis\dashboard\dashboard_screenshot.png)
+![Dashboard](dashboard\dashboard_screenshot.png)
 
 ---
 
